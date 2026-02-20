@@ -1,3 +1,4 @@
 Name: [Samara]
 Course: [IEI]
 Favorite programming language: [Python]
+hobby: sitting 
